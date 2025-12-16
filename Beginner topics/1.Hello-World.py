@@ -1,7 +1,7 @@
 # Welcome to python!!!
 #As you will see later, python is a high level programing language. What that means is that it is very similar to Human language
 #Languages like C/C++ are known as medium level languages. They share some elements of Human language but are mostly difficult to understand for a non coder
-#Low level languages(At this point Im not even sure they sould be called languages) are languages that humans dont/shouldnt understand. Examples include binary and mashine language. These are just ones and zeros so we dont use them.
+#Low level languages(At this point Im not even sure they sould be called languages) are languages that humans dont/shouldnt understand. Examples include binary and machine language. These are just ones and zeros so we dont use them.
 #Lets get started!:
 
 #Python relies on indentation('tab') to distinguish between certain types of code instead of semicolons(';') like in other languages.
